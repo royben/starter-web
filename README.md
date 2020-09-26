@@ -11,3 +11,4 @@ Added new section
 Added some text
 More text
 Some text
+Some text for stash
