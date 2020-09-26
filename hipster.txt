@@ -16,3 +16,5 @@ Change from master
 Another change feature5 after rebase
 
 Some change
+
+Change for stash
