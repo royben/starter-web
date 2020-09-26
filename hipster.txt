@@ -12,3 +12,5 @@ CHange from feature3
 
 Change from feature5
 Change from master
+
+Another change feature5 after rebase
