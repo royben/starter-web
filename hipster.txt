@@ -3,3 +3,5 @@ Some more text.
 Edit more.
 Edit some more.
 Changed now.
+
+Change from feature1
