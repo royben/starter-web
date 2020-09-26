@@ -1,6 +1,6 @@
 This is some demo text.
-Some more text [from master].
-Edit more.
+Some more text [feature4].
+Edit more [feature4].
 Edit some more.
 Changed now.
 
