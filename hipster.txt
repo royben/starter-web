@@ -18,3 +18,5 @@ Another change feature5 after rebase
 Some change
 
 Change for stash
+
+Changes for new tag
