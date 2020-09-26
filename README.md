@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 Added new section
 Added some text
 More text
+Some text
