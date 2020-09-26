@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## New Section
 Added new section
+Added some text
+More text
