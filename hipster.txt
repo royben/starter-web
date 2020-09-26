@@ -5,3 +5,5 @@ Edit some more.
 Changed now.
 
 Change from feature1
+
+Change from feature2
