@@ -1,4 +1,4 @@
-This is some demo text.
+This is some demo text. Changed from branch
 Some more text [feature4].
 Edit more [feature4]. asd
 Edit some more.
